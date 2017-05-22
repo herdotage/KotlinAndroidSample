@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="home" android:icon="@mipmap/ic_home_black_24dp"
+        android:id="@+id/nav_home">
+    </item>
+    <item android:title="message" android:icon="@mipmap/ic_assignment_black_24dp"
+        android:id="@+id/nav_message">
+    </item>
+    <item android:title="personal" android:icon="@mipmap/ic_account_circle_black_24dp"
+        android:id="@+id/nav_personal">
+    </item>
+
+</menu>

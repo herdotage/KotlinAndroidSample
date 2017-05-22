@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="false"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:id="@+id/tv_app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/iv_logo"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:text="Kotlin2"/>
+
+
+    <LinearLayout
+        android:id="@+id/ll_name"
+        style="@style/h_linear_padding_lr_12"
+        android:layout_below="@id/tv_app_name"
+        android:layout_marginTop="35dp">
+        <TextView
+            style="@style/T42_f"
+            android:text="用户名："
+            />
+        <EditText
+            android:id="@+id/etName"
+            style="@style/T42_f"
+            android:inputType="textPersonName"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="8dp"
+            />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/h_linear_padding_lr_12"
+        android:layout_below="@id/ll_name"
+        android:layout_marginTop="8dp">
+        <TextView
+            style="@style/T42_f"
+            android:text="密   码："
+            />
+        <EditText
+            android:id="@+id/etPwd"
+            style="@style/T42_f"
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="8dp"
+            />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnLogin"
+        style="@style/T45_f"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="登录"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="35dp"
+        android:background="@color/colorAccent"/>
+</RelativeLayout>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="text_39">13sp</dimen>
+    <dimen name="text_42">14sp</dimen>
+    <dimen name="text_45">15sp</dimen>
+    <dimen name="text_48">16sp</dimen>
+    <dimen name="text_51">17sp</dimen>
+    <dimen name="text_54">18sp</dimen>
+    <dimen name="text_57">19sp</dimen>
+    <dimen name="text_60">20sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+
+
+
+    <!--text style-->
+    <style name="T39_0" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_39</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="T39_3" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_39</item>
+        <item name="android:textColor">@color/text_3</item>
+    </style>
+    <style name="T39_6" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_39</item>
+        <item name="android:textColor">@color/text_6</item>
+    </style>
+    <style name="T39_9" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_39</item>
+        <item name="android:textColor">@color/text_9</item>
+    </style>
+    <style name="T39_f" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_39</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="T42_0" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_42</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="T42_3" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_42</item>
+        <item name="android:textColor">@color/text_3</item>
+    </style>
+    <style name="T42_6" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_42</item>
+        <item name="android:textColor">@color/text_6</item>
+    </style>
+    <style name="T42_9" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_42</item>
+        <item name="android:textColor">@color/text_9</item>
+    </style>
+    <style name="T42_f" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_42</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="T45_0" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_45</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="T45_3" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_45</item>
+        <item name="android:textColor">@color/text_3</item>
+    </style>
+    <style name="T45_6" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_45</item>
+        <item name="android:textColor">@color/text_6</item>
+    </style>
+    <style name="T45_9" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_45</item>
+        <item name="android:textColor">@color/text_9</item>
+    </style>
+    <style name="T45_f" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_45</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="T48_0" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_48</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="T48_3" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_48</item>
+        <item name="android:textColor">@color/text_3</item>
+    </style>
+    <style name="T48_6" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_48</item>
+        <item name="android:textColor">@color/text_6</item>
+    </style>
+    <style name="T48_9" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_48</item>
+        <item name="android:textColor">@color/text_9</item>
+    </style>
+    <style name="T48_f" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_48</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="T51_0" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_51</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="T51_3" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_51</item>
+        <item name="android:textColor">@color/text_3</item>
+    </style>
+    <style name="T51_6" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_51</item>
+        <item name="android:textColor">@color/text_6</item>
+    </style>
+    <style name="T51_9" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_51</item>
+        <item name="android:textColor">@color/text_9</item>
+    </style>
+    <style name="T51_f" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_51</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="T54_0" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_54</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="T54_3" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_54</item>
+        <item name="android:textColor">@color/text_3</item>
+    </style>
+    <style name="T54_6" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_54</item>
+        <item name="android:textColor">@color/text_6</item>
+    </style>
+    <style name="T54_9" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_54</item>
+        <item name="android:textColor">@color/text_9</item>
+    </style>
+    <style name="T54_f" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_54</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="T57_0" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_57</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="T57_3" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_57</item>
+        <item name="android:textColor">@color/text_3</item>
+    </style>
+    <style name="T57_6" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_57</item>
+        <item name="android:textColor">@color/text_6</item>
+    </style>
+    <style name="T57_9" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_57</item>
+        <item name="android:textColor">@color/text_9</item>
+    </style>
+    <style name="T57_f" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_57</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="T60_0" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_60</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="T60_3" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_60</item>
+        <item name="android:textColor">@color/text_3</item>
+    </style>
+    <style name="T60_6" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_60</item>
+        <item name="android:textColor">@color/text_6</item>
+    </style>
+    <style name="T60_9" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_60</item>
+        <item name="android:textColor">@color/text_9</item>
+    </style>
+    <style name="T60_f" parent="base_layout_wrap_wrap">
+        <item name="android:textSize">@dimen/text_60</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+
+</resources>
